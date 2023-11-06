@@ -5,11 +5,11 @@
   <p><a href="https://github.com/f-lapinski/Driverio">Driverio - Driver Management App</a> in ASP.NET MVC</p>
   <h2>My Stack</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet" />
+    <img src="https://skillicons.dev/icons?i=dotnet,html,js,mysql,python" />
   </a>
-  <h2>Also known</h2>
+  <h2>And more</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,visualstudio,python,mysql,js,html" />
+    <img src="https://skillicons.dev/icons?i=github,visualstudio,postman" />
   </a>
   <h2>Contact me: </h2>
   <a href="https://skillicons.dev">
