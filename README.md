@@ -6,7 +6,7 @@
 <div id="mystack" align="center">
   <h2>My stack: </h2>
   <img src="https://shields.io/badge/C%23_/_.NET-8A2BE2" alt="csharp"/>
-  <img src="https://shields.io/badge/HTML-orange" alt="html"/>
+  <img src="https://shields.io/badge/HTML_&_CSS-orange" alt="html"/>
   <img src="https://shields.io/badge/JavaScript-yellow" alt="js"/>
   <img src="https://shields.io/badge/Python-blue" alt="python"/>
   <img src="https://shields.io/badge/MSSQL-gray" alt="mssql"/>
