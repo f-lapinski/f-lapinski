@@ -1,7 +1,10 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="200"/>
-  <p>My name is Filip.</p>
-  <p>I am diligently learning programming and I am striving to fulfill my dream of becoming a programmer.</p>
+  <p>Hello there! 👋 I'm Filip, a skilled bus driver with a unique twist—I'm not just navigating the roads; I'm also navigating the world of web development! 🌐
+
+Currently, I'm immersing myself in the world of programming languages, frameworks, and the ever-evolving web technologies. My goal? To seamlessly transition from the driver's seat to the developer's desk. From crafting elegant user interfaces to solving complex problems, I find joy in every line of code.
+
+Join me on this exciting journey as I navigate the roads and the web with equal enthusiasm. Together, let's redefine the possibilities and explore the endless potential that arises when a bus driver becomes a web developer!</p>
 </div>
 <div id="mystack" align="center">
   <h2>My stack: </h2>
